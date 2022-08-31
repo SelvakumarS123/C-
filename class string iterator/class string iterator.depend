@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630223878 source:c:\users\lenovo\documents\c++\class string iterator\main.cpp
+	<iostream>
+	<string>
+

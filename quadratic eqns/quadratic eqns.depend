@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627104495 source:c:\users\lenovo\documents\c++\quadratic eqns\main.cpp
+	<iostream>
+	<math.h>
+
