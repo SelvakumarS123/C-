@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651475572 source:c:\users\lenovo\documents\c++\functions & arrays\main.cpp
+	<stdio.h>
+	<vector>
+	<iostream>
+

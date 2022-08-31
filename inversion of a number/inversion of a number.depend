@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649012410 source:c:\users\lenovo\documents\c++\inversion of a number\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+

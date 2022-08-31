@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630021092 source:c:\users\lenovo\documents\c++\string operations\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+

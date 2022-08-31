@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628661212 source:c:\users\lenovo\documents\c++\amstrong number checker\main.cpp
+	<iostream>
+	<cmath>
+
